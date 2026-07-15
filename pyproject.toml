@@ -1,0 +1,16 @@
+[project]
+name = "cam"
+version = "0.1.0"
+description = "It's a program that use your camera and start a terminal to writh diferent caracter depending what it seing"
+readme = "README.md"
+authors = [
+    { name = "Federico Gis." }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "opencv-python>=5.0.0.93",
+]
+
+[build-system]
+requires = ["uv_build>=0.11.28,<0.12.0"]
+build-backend = "uv_build"

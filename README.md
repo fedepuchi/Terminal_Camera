@@ -1,2 +1,2 @@
-# Terminal_Camera
-A camera in the terminal 
+For Use, you need to download dependens for the proyect and then started in a terminal. Depending the resolution of your camera, you will watch best or less caracters in the terminal in real time.  
+You can finish it with Ctrl+C 
